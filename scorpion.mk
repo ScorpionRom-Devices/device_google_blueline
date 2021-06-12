@@ -38,12 +38,12 @@ PRODUCT_MODEL := Pixel 3
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="blueline" \
-    PRIVATE_BUILD_DESC="blueline-user 11 RQ2A.210505.002 7246365 release-keys"
+    PRIVATE_BUILD_DESC="blueline-user 11 RQ3A.210605.005 7349499 release-keys"
 
-BUILD_FINGERPRINT := "google/blueline/blueline:11/RQ2A.210505.002/7246365:user/release-keys"
+BUILD_FINGERPRINT := "google/blueline/blueline:11/RQ3A.210605.005/7349499:user/release-keys"
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.build.fingerprint=google/blueline/blueline:11/RQ2A.210505.002/7246365:user/release-keys
+    ro.build.fingerprint=google/blueline/blueline:11/RQ3A.210605.005/7349499:user/release-keys
 
 # Active Edge
 PRODUCT_PACKAGES += \
